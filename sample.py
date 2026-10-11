@@ -1,0 +1,5 @@
+print("Hello, World!")
+print("Welcome to Python")
+print("I am learning Python")
+print("Python is easy")
+print("Have a nice day!")
